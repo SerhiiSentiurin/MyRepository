@@ -13,7 +13,7 @@ import static java.util.stream.Collectors.toMap;
 
 public class Main {
     private final static String[] names = {"Johnny", "Betty", "Ragnar", "Umberto"};
-    private final static String[] lastNames = {"Silverhand", "Paige", "Lodbrok", "Eco"};
+    private final static String[] lastNames = {"Silverhand", "Paige", "Lodbrok", "Eco"} ;
     private final static String[] programTasks = {"Lab 1. Figures", "Lab 2. War and Peace", "Lab 3. File Tree"};
     private final static String[] practicalHistoryTasks = {"Shieldwalling", "Phalanxing", "Wedging", "Tercioing"};
 
